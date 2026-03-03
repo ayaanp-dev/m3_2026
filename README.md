@@ -1,6 +1,6 @@
 q1.py contains the code for our solution to Question #1 of the 2026 M3 Modeling Challenge
 
-q2.py contains the code for our solution to Question #2 of the 2026 M3 Modeling Challenge
+q2.py contains the code for our Data-Based Approach solution to Question #2 of the 2026 M3 Modeling Challenge
 
 Question #1:
 
